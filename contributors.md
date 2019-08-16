@@ -1,2 +1,3 @@
 - [Neo Anoman](https://github.com/NeoAnoman)
-- [Krishare](https://github.com/Krishare)
+- [Krishare](https://github.com/Krishare)  
+- [Simran](https://github.com/Sonal240)
